@@ -3,12 +3,12 @@
 <channel>
   <title>My Blog</title>
   <link>https://www.example.com/</link>
-  <description>This is my personal blog.</description>
+  <description>Este es mi blog personal</description>
   <language>en-us</language>
   <lastBuildDate>Mon, 18 Apr 2023 12:00:00 GMT</lastBuildDate>
 
   <item>
-    <title>Blog Entry 1</title>
+    <title>Blog Entrada 1</title>
     <link>https://www.example.com/blog-entry-1.html</link>
     <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce feugiat justo vel libero vulputate, in tempus augue consectetur</description>
 <pubDate>Tue, 18 Apr 2023 12:00:00 GMT</pubDate>
